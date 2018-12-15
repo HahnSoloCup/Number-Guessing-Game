@@ -74,7 +74,7 @@ class ClientGUI(QWidget):
 
     def initUI(self):
         self.WelcomeText = QLabel(self)
-        self.Picture = QPixmap('GUI Pictures\ClientGUI.png')
+        self.Picture = QPixmap('ClientGUI.png')
         self.WelcomeText.setPixmap(self.Picture)
         self.WelcomeText.move(82,35)
         self.StatusLabel1 = QLabel(self)
