@@ -10,6 +10,6 @@ Round-based guessing game hosted over a network
 
  <dl>
   <dt>Important Notes</dt>
-  <dd>Clients are hardcoded with specific IP/Ports</br>
-  Host can only run 2 clients simultaneously</br></dd>
+  <dd>-Clients are hardcoded with specific IP/Ports</br>
+  -Host can only run 2 clients simultaneously</br></dd>
 </dl>
