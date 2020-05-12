@@ -3,7 +3,7 @@ Round-based guessing game hosted over a network
 
  <dl>
   <dt>Required</dt>
-  <dd>Pyqt5 (https://pypi.org/project/PyQt5/)</dd>
+  <dd>-Pyqt5 (https://pypi.org/project/PyQt5/)</dd>
 </dl>
 
 
